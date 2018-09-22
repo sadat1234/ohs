@@ -1,1 +1,6 @@
+HTML
+Week 1 Notes
+HTML is made of tags
+HTML tells the coputer the language is HTML
+<head> beginning tag </head>
 
